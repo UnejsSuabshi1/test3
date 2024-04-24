@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    background:url(img.bg.jpg)
+}
+#logo{
+    width: 6%;
+    height: 6%;
+    margin-left: 1%;
+    margin-top: 1%;
+    background-repeat: inherit
+}
+.menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.menu li{
+    display: inline;
+}
+.menu a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Patua One';
+    color: white;
+    background: chocolate;
+    margin-left: 15px;
+    border-radius: 0px 0px 25px 25px;
+}
+h1{
+    color: rgb(255, 4, 4);
+    font-family: "Rubik Scribble", system-ui;
+    background: #ffffffc7;
+    font-size: 110px;
+    letter-spacing: 2px;
+}
+#title{
+    color: rgb(255, 4, 4);
+
+    font-family: "Rubik Scribble", 'Calibri', system-ui;
+    background: #000000c7;
+    font-size: 110px;
+    letter-spacing: 2px;
+}
+button{
+    width: 250px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 40px;
+    background: #DCDCDC;
+    color: #030a34;
+    font-weight: bolder;
+    font-family: Quicksand;
+    font-size: 20px;
+}
+#butonat{
+    text-align: center;
+}
+#fig1{
+    margin-top: 30px;
+}
+
+#fig1, #seksioni2{
+    background: white;
+}
+#seksioni2{
+    margin-top: -20px;
+}
+#ab-tx h1{
+    color: #030a34;
+    font-size: 55px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#figura{
+    padding: 10px;
+    float: left;
+    width: 40%;
+    height: 295px;
+    overflow: hidden;
+}
+#last{
+    float: left;
+    width: 33.2%;
+    height: 13.2%;
+    overflow: hidden;
+    margin-left: -617px;
+    margin-top: 320px;
+}
+#submit{
+    background: #141c2f;
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+#my_submit{
+    margin-left: 400px;
+}
+input[type=text], select{
+    width: 200%;
+    padding: 15px 25px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit]{
+    padding: 10px 100px;
+    font-size: 14px;
+    border-radius: 10px;
+    background: #2e25ad;
+    color: white;
+    border: none;
+}
+#submit button{
+    border-color: rgb(0, 200, 255);
+    font-family: Calibri;
+}
+a {
+    text-decoration: none;
+}
+#More-Games{
+    text-align: center;
+}
+
+#y-t{
+    margin-left: 40%;
+    margin-bottom: 0.5%;
+    margin-top: -15%;
+}
+#visit{
+    margin-left: 20%;
+}
+#ab-tx p{
+    color: #030a34;
+    font-family: Arial;
+    padding-right: 10px;
+    font-size: 20px;
+    line-height: 20px;
+}
+#buy{
+    background-color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+#buy1, #buy2, #buy3, #buy4{
+    height: 150px;
+    width: 150px;
+    padding: 100px;
+    overflow: hidden;
+    margin-top: -80px;
+    margin-bottom: -80px;
+}
+#emulator-ul{
+    text-align: right;
+}
+#emulator1, #emulator2, #emulator3, #emulator4, #emulator5{
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    margin-top: -50px;
+}
+#ab-tx{
+    margin-left: 52%;
+}
+
